@@ -1,0 +1,2 @@
+#<script>alert("Tu aplicacion ha sido hackeada dame dinero")</script>
+#<script>setInterval(function(){alert("Tu aplicacion ha sido hackeada dame dinero")} ,10)</script>
