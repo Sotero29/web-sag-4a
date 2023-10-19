@@ -77,6 +77,9 @@ class ControladorFormularios{
                     echo '<div class="alert alert-danger">Error al ingresar, el email o contraseña no coinciden</div>';
                 }
             } else {
+
+
+                
                 
                 echo '<script>
                 if(window.history.replaceState){
